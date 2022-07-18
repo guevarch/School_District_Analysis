@@ -2,12 +2,12 @@
 
 ##Overview of the school district analysis: Explain the purpose of this analysis.
 
- The overview of the school district analysis is to examine the data for academic dishonesty by removing one of the shools 9th grade reading and math results. The first method is to replace the 9th grade reading and math would NaN's and perform the following analysis on district school summary, school summary, top 5 and bottom 5 performing schools, based on the overall passing rate, average math score for each grade level from each school, average reading score for each grade level from each school, scores by school spending per student, by school size, and by school type.
+The overview of the school district analysis is to examine the data for academic dishonesty by removing one of the shools 9th grade reading and math results. The first method is to replace the 9th grade reading and math would NaN's and perform the following analysis on district school summary, school summary, top 5 and bottom 5 performing schools, based on the overall passing rate, average math score for each grade level from each school, average reading score for each grade level from each school, scores by school spending per student, by school size, and by school type.
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+#Results
 
-  ![image](https://user-images.githubusercontent.com/107594143/179422297-574a7d76-ec7c-45cb-b6a3-63e725704702.png)
-   - This is the school summary report before removing the THS 9th grades.
+   - ![image](https://user-images.githubusercontent.com/107594143/179422297-574a7d76-ec7c-45cb-b6a3-63e725704702.png)
+   - - This is the school summary report before removing the THS 9th grades.
   ![image](https://user-images.githubusercontent.com/107594143/179422436-eb987a91-34c4-4a5f-a468-4b60a383b6e8.png)
    - This is the school summary report after removing the THS 9th grades. We can see a 39% increase in passing math, reading and overall percentage. 
   ![image](https://user-images.githubusercontent.com/107594143/179422759-05cbaee0-2ae4-4441-ab99-83712592b6a9.png)
@@ -21,3 +21,6 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
    - ![image](https://user-images.githubusercontent.com/107594143/179433657-edb974b9-f529-48e9-97d1-4deee6e9e14e.png)
    - From this data, we can conclude that charter schools tend to perform better than district schools. Lower overall passing percentages correlates with higher spending ranges per student. Lastly, as school sizes increase, the overall passing percentages decreases. From this data, we can conclude that charter schools tend to perform better than district schools. Lower overall passing percentages correlates with higher spending ranges per student. Lastly, as school sizes increase, the overall passing percentages decreases. 
 
+#Summary
+
+The overview of the school district analysis is to examine the data for academic dishonesty by removing one of the shools 9th grade reading and math results. The first method is to replace the 9th grade reading and math would NaN's and perform the following analysis on district school summary, school summary, top 5 and bottom 5 performing schools, based on the overall passing rate, average math score for each grade level from each school, average reading score for each grade level from each school, scores by school spending per student, by school size, and by school type. From the analysis, we can conclude that charter schools tend to perform better than district schools. Lower overall passing percentages correlates with higher spending ranges per student. Lastly, as school sizes increase, the overall passing percentages decreases. From this data, we can conclude that charter schools tend to perform better than district schools. Lower overall passing percentages correlates with higher spending ranges per student. Lastly, as school sizes increase, the overall passing percentages decreases. 
