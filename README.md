@@ -17,7 +17,7 @@ How is the district summary affected?
 ![image](https://user-images.githubusercontent.com/107594143/179430211-2bfc8e12-8825-4944-b2c5-eb968b1afeb4.png)
  -This images at the math and reading grades. The image on the left includes the 9th graders and the right excludes them. The data shows that the math and reading grades from grade 9 were dragging the overall passing percentage of the school down. Another conclusion that could be drawn, ableit a weak case, but if students from grade 10-12 were all cheating on the exams. I doubt the later conclusion is more believable than the former.
  ![image](https://user-images.githubusercontent.com/107594143/179430702-85eb1376-5c81-4f35-b0d3-1e44a658401c.png)
- - This image shows the amount of grade 9 students in the THS school. Grade 9 make about roughly 28% of the population. Quite interesting that of the population would skew the data lower
+ - This image shows the amount of grade 9 students in the THS school. Grade 9 make about roughly 28% of the population. Quite interesting that of the population would skew the overall passing percentage by 27%. 
 
 
 
